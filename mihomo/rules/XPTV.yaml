@@ -29,24 +29,12 @@ payload:
 #小雅
 - DOMAIN-SUFFIX,xiaoya.pro
 #网盘源
-#小米
-- DOMAIN,mihdr.top
-#木偶
-- DOMAIN-SUFFIX,mogg.top
-#玩偶
-- DOMAIN-SUFFIX,wogg.net
 #雷鲸
 - DOMAIN,www.leijing.xyz
 #校长
 - DOMAIN,xzys.fun
-#蜡笔
-- DOMAIN-SUFFIX,duopan.fun
 #南风
 - DOMAIN,www.nanf.cc
-#多多
-- DOMAIN,yydsys.top
-#欧歌
-- DOMAIN,woog.nxog.eu.org
 #云盘吧
 - DOMAIN,yunpan8.cc
 #nmlive相关
@@ -59,6 +47,81 @@ payload:
 - DOMAIN-SUFFIX,huya.com
 - DOMAIN-SUFFIX,msstatic.com
 - DOMAIN,lemonlive.deno.dev
+#立播
+- DOMAIN,libvio.mov
+- DOMAIN,www.libvio.cc
+- DOMAIN,libvio.la
+- DOMAIN,libvio.pro
+- DOMAIN,libvio.fun
+- DOMAIN,libvio.me
+- DOMAIN,libvio.in
+- DOMAIN,libvio.site
+- DOMAIN,libvio.art
+- DOMAIN,libvio.vip
+- DOMAIN,libvio.pw
+- DOMAIN,libvio.link
+#欧哥
+- DOMAIN,woog.nxog.eu.org
+#小米
+- DOMAIN,www.milvdou.fun
+- DOMAIN,www.mucpan.cc
+- DOMAIN,mucpan.cc
+- DOMAIN,milvdou.fun
+- DOMAIN,xiaomi.628383.xyz
+- DOMAIN,156.238.229.163
+#多多
+- DOMAIN,tv.yydsys.top
+- DOMAIN,tv.yydsys.cc
+- DOMAIN,tv.214521.xyz
+#蜡笔
+- DOMAIN,feimaoai.site
+- DOMAIN,www.labi88.sbs
+- DOMAIN,feimao666.fun
+- DOMAIN,feimao888.fun
+#至臻
+- DOMAIN,mihdr.top
+- DOMAIN,xiaomi666.fun
+- DOMAIN,www.miqk.cc
+- DOMAIN,xiaomiai.site
+#虎斑
+- DOMAIN,103.45.162.207:20720
+#下饭
+- DOMAIN,154.204.177.231
+- DOMAIN,www.xn--ghqy10g1w0a.xyz
+#玩偶
+- DOMAIN,wogg.xxooo.cf
+- DOMAIN,wogg.333232.xyz
+- DOMAIN,woggpan.333232.xyz
+- DOMAIN,wogg.heshiheng.top
+- DOMAIN,www.wogg.one
+- DOMAIN,www.wogg.lol
+#木偶
+- DOMAIN,123.666291.xyz
+- DOMAIN,mogg.5568.eu.org
+- DOMAIN,mo.91muou.icu
+- DOMAIN,mo.666291.xyz
+- DOMAIN,mo.muouso.fun
+#星剧社
+- DOMAIN,mlink.cc/520TV
+#二小
+- DOMAIN,xhww.net
+- DOMAIN,2xiaopan.fun
+- DOMAIN,erxiaofn.click
+- DOMAIN,erxiaofn.site
+- DOMAIN,www.xhww.net
+- DOMAIN,xiaoer.5568.eu.org
+- DOMAIN,wexfnw.999888456.xyz
+- DOMAIN,89.213.49.249
+#大玩偶
+- DOMAIN,149.88.87.18:6688
+#玩偶叔叔
+- DOMAIN,woss.fenwe.eu.org
+#百家影音
+- DOMAIN,cj.jiexi.news
+- DOMAIN,baijia.885525.xyz
+#闪电
+- DOMAIN,1.95.79.193
+- DOMAIN,1.95.79.193:666
 #VOD源
 #低端主页与播放
 - DOMAIN-SUFFIX,ddys.pro
